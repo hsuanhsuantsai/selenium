@@ -3,6 +3,11 @@ Basic manipulations of selenium
 
 ***
 
+## [20171228] check-in.py
+* Usage: python check-in.py
+* Description: Set up with crontab to auto check-in for leetcode
+***
+
 ## [20171224] lc_scraper.py
 * Usage: python lc_scraper.py
 * Description:  
